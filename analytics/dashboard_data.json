@@ -701,8 +701,8 @@
     },
     "stock": {
       "comparable": true,
-      "current_date": "2026-09-27",
-      "previous_date": "2026-09-26",
+      "current_date": "2026-09-28",
+      "previous_date": "2026-09-27",
       "repositories": [
         {
           "category": "core",
@@ -1154,8 +1154,8 @@
     ],
     "schema_version": 1,
     "sites_observed": 3,
-    "snapshot_date_max": "2026-09-27",
-    "snapshot_date_min": "2026-09-27",
+    "snapshot_date_max": "2026-09-29",
+    "snapshot_date_min": "2026-09-29",
     "source": "github_traffic_popular_referrers",
     "window_days": 14
   },
