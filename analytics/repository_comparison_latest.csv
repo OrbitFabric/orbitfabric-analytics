@@ -1,7 +1,7 @@
 window_start,window_end,window_days,repository_id,repository,category,days_expected,days_available,coverage_pct,coverage_complete,clones_total,views_total,clones_unique_repo_day_sum,views_unique_repo_day_sum,clone_active_days,view_active_days,clone_only_days,view_only_days,mixed_days,inactive_days,clones_per_repo_day_unique,views_per_repo_day_unique,clone_to_view_ratio
-2026-09-15,2026-09-28,14,core,OrbitFabric/orbitfabric,core,14,14,100.0,True,2458,27,601,6,14,4,10,0,4,0,4.09,4.5,91.04
-2026-09-15,2026-09-28,14,studio,OrbitFabric/orbitfabric-studio,product,14,14,100.0,True,434,5,178,3,14,3,11,0,3,0,2.44,1.67,86.8
-2026-09-15,2026-09-28,14,reference-mission,OrbitFabric/orbitfabric-reference-mission,product,14,14,100.0,True,237,4,115,2,13,2,11,0,2,1,2.06,2.0,59.25
-2026-09-15,2026-09-28,14,openobsw-opensvf-adapter,OrbitFabric/orbitfabric-openobsw-opensvf-adapter,adapter,14,14,100.0,True,202,4,77,2,10,2,10,2,0,2,2.62,2.0,50.5
-2026-09-15,2026-09-28,14,openc3-cosmos-adapter,OrbitFabric/orbitfabric-openc3-cosmos-adapter,adapter,14,14,100.0,True,279,0,104,0,11,0,11,0,0,3,2.68,,
-2026-09-15,2026-09-28,14,fprime-adapter,OrbitFabric/orbitfabric-fprime-adapter,adapter,14,14,100.0,True,548,47,178,3,14,3,11,0,3,0,3.08,15.67,11.66
+2026-09-16,2026-09-29,14,core,OrbitFabric/orbitfabric,core,14,14,100.0,True,2471,16,604,5,14,4,10,0,4,0,4.09,3.2,154.44
+2026-09-16,2026-09-29,14,studio,OrbitFabric/orbitfabric-studio,product,14,14,100.0,True,423,5,173,3,14,3,11,0,3,0,2.45,1.67,84.6
+2026-09-16,2026-09-29,14,reference-mission,OrbitFabric/orbitfabric-reference-mission,product,14,14,100.0,True,277,6,136,4,13,3,10,0,3,1,2.04,1.5,46.17
+2026-09-16,2026-09-29,14,openobsw-opensvf-adapter,OrbitFabric/orbitfabric-openobsw-opensvf-adapter,adapter,14,14,100.0,True,202,4,77,2,10,2,10,2,0,2,2.62,2.0,50.5
+2026-09-16,2026-09-29,14,openc3-cosmos-adapter,OrbitFabric/orbitfabric-openc3-cosmos-adapter,adapter,14,14,100.0,True,282,0,107,0,12,0,12,0,0,2,2.64,,
+2026-09-16,2026-09-29,14,fprime-adapter,OrbitFabric/orbitfabric-fprime-adapter,adapter,14,14,100.0,True,548,47,178,3,14,3,11,0,3,0,3.08,15.67,11.66

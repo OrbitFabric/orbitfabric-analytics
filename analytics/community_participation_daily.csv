@@ -263,3 +263,9 @@ date,repository_id,repository,category,issue_author_events,pr_author_events,comm
 2026-09-29,openobsw-opensvf-adapter,OrbitFabric/orbitfabric-openobsw-opensvf-adapter,adapter,0,0,0,0,0,0,0,0,0
 2026-09-29,reference-mission,OrbitFabric/orbitfabric-reference-mission,product,0,1,0,1,1,0,0,0,0
 2026-09-29,studio,OrbitFabric/orbitfabric-studio,product,0,0,0,0,0,0,0,0,0
+2026-09-30,core,OrbitFabric/orbitfabric,core,0,0,0,0,0,0,0,0,0
+2026-09-30,fprime-adapter,OrbitFabric/orbitfabric-fprime-adapter,adapter,0,0,0,0,0,0,0,0,0
+2026-09-30,openc3-cosmos-adapter,OrbitFabric/orbitfabric-openc3-cosmos-adapter,adapter,0,0,0,0,0,0,0,0,0
+2026-09-30,openobsw-opensvf-adapter,OrbitFabric/orbitfabric-openobsw-opensvf-adapter,adapter,0,0,0,0,0,0,0,0,0
+2026-09-30,reference-mission,OrbitFabric/orbitfabric-reference-mission,product,0,0,0,0,0,0,0,0,0
+2026-09-30,studio,OrbitFabric/orbitfabric-studio,product,0,0,0,0,0,0,0,0,0
