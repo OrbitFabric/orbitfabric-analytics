@@ -56,6 +56,13 @@
         "unique_visitors": 1,
         "views": 3
       }
+    ],
+    "2026-10-03": [
+      {
+        "referrer": "github.com",
+        "unique_visitors": 1,
+        "views": 2
+      }
     ]
   },
   "window_days": 14
