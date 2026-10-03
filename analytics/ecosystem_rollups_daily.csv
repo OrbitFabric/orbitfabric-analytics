@@ -163,3 +163,7 @@ date,scope_type,scope_id,repositories_expected,repositories_available,coverage_p
 2026-09-30,category,adapter,3,3,100.0,True,3,0,3,0
 2026-09-30,category,core,1,1,100.0,True,1,0,1,0
 2026-09-30,category,product,2,2,100.0,True,5,6,4,1
+2026-10-01,ecosystem,ecosystem,6,6,100.0,True,1,1,1,1
+2026-10-01,category,adapter,3,3,100.0,True,0,0,0,0
+2026-10-01,category,core,1,1,100.0,True,0,1,0,1
+2026-10-01,category,product,2,2,100.0,True,1,0,1,0

@@ -3,10 +3,10 @@
   "repositories_expected": 6,
   "rows": [
     {
-      "repositories": 5,
+      "repositories": 4,
       "site": "github.com",
-      "unique_visitors_repo_sum": 5,
-      "views": 13
+      "unique_visitors_repo_sum": 4,
+      "views": 7
     },
     {
       "repositories": 1,
@@ -17,8 +17,8 @@
   ],
   "schema_version": 1,
   "sites_observed": 2,
-  "snapshot_date_max": "2026-10-02",
-  "snapshot_date_min": "2026-10-02",
+  "snapshot_date_max": "2026-10-03",
+  "snapshot_date_min": "2026-10-03",
   "source": "github_traffic_popular_referrers",
   "window_days": 14
 }

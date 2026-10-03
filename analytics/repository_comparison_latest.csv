@@ -1,7 +1,7 @@
 window_start,window_end,window_days,repository_id,repository,category,days_expected,days_available,coverage_pct,coverage_complete,clones_total,views_total,clones_unique_repo_day_sum,views_unique_repo_day_sum,clone_active_days,view_active_days,clone_only_days,view_only_days,mixed_days,inactive_days,clones_per_repo_day_unique,views_per_repo_day_unique,clone_to_view_ratio
-2026-09-17,2026-09-30,14,core,OrbitFabric/orbitfabric,core,14,14,100.0,True,2196,16,547,5,14,4,10,0,4,0,4.01,3.2,137.25
-2026-09-17,2026-09-30,14,studio,OrbitFabric/orbitfabric-studio,product,14,14,100.0,True,345,5,142,3,13,3,10,0,3,1,2.43,1.67,69.0
-2026-09-17,2026-09-30,14,reference-mission,OrbitFabric/orbitfabric-reference-mission,product,14,14,100.0,True,278,12,138,5,13,4,9,0,4,1,2.01,2.4,23.17
-2026-09-17,2026-09-30,14,openobsw-opensvf-adapter,OrbitFabric/orbitfabric-openobsw-opensvf-adapter,adapter,14,14,100.0,True,204,4,79,2,11,2,11,2,0,1,2.58,2.0,51.0
-2026-09-17,2026-09-30,14,openc3-cosmos-adapter,OrbitFabric/orbitfabric-openc3-cosmos-adapter,adapter,14,14,100.0,True,282,0,107,0,12,0,12,0,0,2,2.64,,
-2026-09-17,2026-09-30,14,fprime-adapter,OrbitFabric/orbitfabric-fprime-adapter,adapter,14,14,100.0,True,265,5,112,2,14,2,12,0,2,0,2.37,2.5,53.0
+2026-09-18,2026-10-01,14,core,OrbitFabric/orbitfabric,core,14,14,100.0,True,2165,10,545,5,13,4,10,1,3,0,3.97,2.0,216.5
+2026-09-18,2026-10-01,14,studio,OrbitFabric/orbitfabric-studio,product,14,14,100.0,True,246,2,112,2,12,2,10,0,2,2,2.2,1.0,123.0
+2026-09-18,2026-10-01,14,reference-mission,OrbitFabric/orbitfabric-reference-mission,product,14,14,100.0,True,273,9,138,4,13,3,10,0,3,1,1.98,2.25,30.33
+2026-09-18,2026-10-01,14,openobsw-opensvf-adapter,OrbitFabric/orbitfabric-openobsw-opensvf-adapter,adapter,14,14,100.0,True,204,1,79,1,11,1,11,1,0,2,2.58,1.0,204.0
+2026-09-18,2026-10-01,14,openc3-cosmos-adapter,OrbitFabric/orbitfabric-openc3-cosmos-adapter,adapter,14,14,100.0,True,281,0,106,0,11,0,11,0,0,3,2.65,,
+2026-09-18,2026-10-01,14,fprime-adapter,OrbitFabric/orbitfabric-fprime-adapter,adapter,14,14,100.0,True,246,2,100,1,13,1,12,0,1,1,2.46,2.0,123.0
